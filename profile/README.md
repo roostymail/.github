@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" width="88" height="88" alt="Roosty Mail logo: a pigeon on a perch">
+  <img src="app-icon.png" width="96" height="96" alt="Roosty Mail">
 </p>
 
 <h3 align="center">Roosty Mail</h3>
